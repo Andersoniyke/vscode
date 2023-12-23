@@ -9,7 +9,7 @@ git branch -M main
 git push -u origin main
 ```
 
-![cool](./Assets/extension%20install.PNG
+![cool](./Assets/extension%20install.PNG)
 
 ![cute](./Assets/vscode%20updated.PNG)
 
